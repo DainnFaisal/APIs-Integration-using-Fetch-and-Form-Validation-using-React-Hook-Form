@@ -1,0 +1,18 @@
+.nav-bar{
+    background-color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    display: flex;
+
+}
+.set-links{
+    text-decoration: none;
+    color: antiquewhite;
+    margin-right: 15px;
+}
+.logo{
+    color: rgba(255, 255, 0, 0.527);
+    font-size: 18px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
